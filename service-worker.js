@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/are-you-depressed/precache-manifest.4226690f67065883b662a4119c8c0984.js"
+  "/are-you-depressed/precache-manifest.24d1c9feb164252908bceb7717dbf4cd.js"
 );
 
 workbox.clientsClaim();

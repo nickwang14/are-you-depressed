@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/are-you-depressed/static/js/2.e9607c72.chunk.js"
   },
   {
-    "revision": "526eef82ccef3ceae13027c3aedb74a4",
+    "revision": "64ffc44790caf64e075afec60879118b",
     "url": "/are-you-depressed/index.html"
   }
 ];
