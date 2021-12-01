@@ -1,5 +1,19 @@
-https://www.ismanet.org/doctoryourspirit/pdfs/Beck-Depression-Inventory-BDI.pdf
+This site was created as I have gone through some of my own mental health challenges. It's a good way to check in to see where the sadness rating lies.
 
+An online quiz to fill in the depression form by (Beck's Depression Inventory](https://www.ismanet.org/doctoryourspirit/pdfs/Beck-Depression-Inventory-BDI.pdf)
+
+The Beck Depression Inventory (BDI) is a 21-item, self-report rating inventory that measures characteristic attitudes and symptoms of depression (Beck, et al., 1961).  (https://www.apa.org/pi/about/publications/caregivers/practice-settings/assessment/tools/beck-depression)
+
+Feel free to open PRs to contribute to this page.
+
+The page is open source and self sustaining. If you feel like buying me a coffee, I would appreciate donations in the methods below.
+
+paypal.me/nickwang14
+nickwang14$paystring.crypto.com
+
+
+
+Built off the [Material-UI-Starter](github.com/yunusemredilber/material-ui-starter)
 
 Live example is [here](https://codesandbox.io/s/github/yunusemredilber/material-ui-starter).
 Thanks to [Material-UI](https://github.com/mui-org/material-ui) for great, fully responsive and handsome UI.
