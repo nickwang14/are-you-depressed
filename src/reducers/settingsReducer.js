@@ -9,20 +9,22 @@ const initialState = {
     },
     palette : {
         primary: {
-            light: '#9a67ea',
-            main: '#673ab7',
-            dark: '#320b86',
+            light: '#757de8',
+            main: '#3f51b5',
+            dark: '#002984',
             //contrastText: '#fff',
         },
         secondary: {
-            light: '#b085f5',
-            main: '#7e57c2',
-            dark: '#4d2c91',
+            light: '#8e99f3',
+            main: '#5c6bc0',
+            dark: '#26418f',
             //contrastText: '#fff',
         },
         type: 'dark',
     },
-
+    shape: {
+        borderRadius: 8,
+      },
 };
 // Settings Reducer
 export default function settingsReducer(state=initialState, action) {

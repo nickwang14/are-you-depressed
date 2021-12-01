@@ -6,9 +6,13 @@ import {setPoints} from '../actions/home-actions';
 
 const Questions = ({home, setPoints}) => {
   const index = home.points.length
-  return <div style={{display: 'flex', flexDirection: 'column'}}>
+  return <div style={{
+    display: 'flex', 
+    flexDirection: 'column', 
+    justifyContent: 'flex-start',
+    }}>
     <Button
-      style={{marginLeft:"20px"}}
+      style={{justifyContent: "flex-start",  textAlign: 'left'}}
       onClick={
         ()=>{setPoints(0);}
     }>
@@ -18,7 +22,7 @@ const Questions = ({home, setPoints}) => {
     </Button>
 
     <Button
-      style={{marginLeft:"20px"}}
+      style={{justifyContent: "flex-start",  textAlign: 'left'}}
       onClick={
         ()=>{setPoints(1);}
     }>
@@ -28,7 +32,7 @@ const Questions = ({home, setPoints}) => {
     </Button>
 
     <Button
-      style={{marginLeft:"20px"}}
+      style={{justifyContent: "flex-start",  textAlign: 'left'}}
       onClick={
         ()=>{setPoints(2);}
     }>
@@ -38,7 +42,7 @@ const Questions = ({home, setPoints}) => {
     </Button>
 
     <Button
-      style={{marginLeft:"20px"}}
+      style={{justifyContent: "flex-start",  textAlign: 'left'}}
       onClick={
         ()=>{setPoints(3);}
     }>
