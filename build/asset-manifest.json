@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.b3b87b08.chunk.css",
-  "main.js": "/static/js/main.146c929c.chunk.js",
-  "main.js.map": "/static/js/main.146c929c.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.5e98ba4f.chunk.js": "/static/js/2.5e98ba4f.chunk.js",
-  "static/js/2.5e98ba4f.chunk.js.map": "/static/js/2.5e98ba4f.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.1c30346dd0545286b0cadf0ee0d8ae58.js": "/precache-manifest.1c30346dd0545286b0cadf0ee0d8ae58.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.b3b87b08.chunk.css.map": "/static/css/main.b3b87b08.chunk.css.map"
+  "main.css": "/are-you-depressed/static/css/main.b3b87b08.chunk.css",
+  "main.js": "/are-you-depressed/static/js/main.47d0e6bf.chunk.js",
+  "main.js.map": "/are-you-depressed/static/js/main.47d0e6bf.chunk.js.map",
+  "runtime~main.js": "/are-you-depressed/static/js/runtime~main.51495387.js",
+  "runtime~main.js.map": "/are-you-depressed/static/js/runtime~main.51495387.js.map",
+  "static/js/2.e9607c72.chunk.js": "/are-you-depressed/static/js/2.e9607c72.chunk.js",
+  "static/js/2.e9607c72.chunk.js.map": "/are-you-depressed/static/js/2.e9607c72.chunk.js.map",
+  "index.html": "/are-you-depressed/index.html",
+  "precache-manifest.4226690f67065883b662a4119c8c0984.js": "/are-you-depressed/precache-manifest.4226690f67065883b662a4119c8c0984.js",
+  "service-worker.js": "/are-you-depressed/service-worker.js",
+  "static/css/main.b3b87b08.chunk.css.map": "/are-you-depressed/static/css/main.b3b87b08.chunk.css.map"
 }
