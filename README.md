@@ -14,7 +14,7 @@ The page is open source and self sustaining. If you feel like buying me a coffee
 paypal.me/nickwang14
 nickwang14$paystring.crypto.com
 
-
+# Template and basics
 
 Built off the [Material-UI-Starter](github.com/yunusemredilber/material-ui-starter)
 
