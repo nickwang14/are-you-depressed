@@ -1,3 +1,4 @@
+# About
 This site was created as I have gone through some of my own mental health challenges. It's a good way to check in to see where the sadness rating lies.
 
 An online quiz to fill in the depression form by (Beck's Depression Inventory](https://www.ismanet.org/doctoryourspirit/pdfs/Beck-Depression-Inventory-BDI.pdf)
@@ -6,6 +7,8 @@ The Beck Depression Inventory (BDI) is a 21-item, self-report rating inventory t
 
 Feel free to open PRs to contribute to this page.
 
+
+### Support
 The page is open source and self sustaining. If you feel like buying me a coffee, I would appreciate donations in the methods below.
 
 paypal.me/nickwang14
