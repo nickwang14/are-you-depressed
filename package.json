@@ -7,6 +7,8 @@
     "@material-ui/icons": "^3.0.2",
     "@material-ui/lab": "^3.0.0-alpha.30",
     "@material-ui/styles": "^3.0.0-alpha.10",
+    "eslint": "5.12.0",
+    "gh-pages": "^3.2.3",
     "local-storage": "^1.4.2",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
@@ -15,8 +17,7 @@
     "react-scripts": "2.1.8",
     "redux": "^4.0.1",
     "redux-promise-middleware": "^6.1.0",
-    "redux-thunk": "^2.3.0",
-    "eslint": "5.12.0"
+    "redux-thunk": "^2.3.0"
   },
   "scripts": {
     "predeploy": "npm run build",
