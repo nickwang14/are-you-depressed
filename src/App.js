@@ -8,7 +8,7 @@ import { MuiThemeProvider, createMuiTheme } from '@material-ui/core/styles';
 import {CssBaseline} from "@material-ui/core";
 
 // Component Imports
-import AppBar from "./components/AppBar";
+// import AppBar from "./components/AppBar";
 
 // Page Imports
 import HomePage from "./components/pages/HomePage";
@@ -44,7 +44,7 @@ class App extends Component {
         <MuiThemeProvider theme={theme}>
           <CssBaseline/>
           <Router>
-            <AppBar/>
+            {/* <AppBar/> */}
               <Switch>
                 <Route path={"/"} exact /*strict*/ component={HomePage}/>
                 <Route path={"/test"} exact /*strict*/ component={TestPage}/>

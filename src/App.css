@@ -52,11 +52,11 @@ table {
 }
 
 body {
-  /*background-color: #212121;*/
+  background-color: #212121;
 }
 
 p, h1, h2, h3, h4, h5, h6 {
-  /*color: #BDBDBD;*/
+  color: #BDBDBD;
   font-family: 'Mali', cursive;
 }
 
