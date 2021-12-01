@@ -23,6 +23,7 @@ const Questions = ({home, setPoints}) => {
 
     <Button
       style={{justifyContent: "flex-start",  textAlign: 'left'}}
+      color='secondary'
       onClick={
         ()=>{setPoints(1);}
     }>
@@ -43,6 +44,7 @@ const Questions = ({home, setPoints}) => {
 
     <Button
       style={{justifyContent: "flex-start",  textAlign: 'left'}}
+      color='secondary'
       onClick={
         ()=>{setPoints(3);}
     }>
