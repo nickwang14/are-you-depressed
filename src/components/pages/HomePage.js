@@ -3,6 +3,7 @@ import {connect} from 'react-redux';
 import Questions from '../Questions'
 import Results from '../Results'
 import ProgressSlider from '../ProgressSlider'
+import DarkModeToggle from '../DarkModeToggle'
 
 
 // Material UI Imports
@@ -87,7 +88,9 @@ class HomePage extends Component {
                     </Button>
                     </div>
                     </Paper>
+                    <DarkModeToggle/>
                 </Grid>
+
                 <ProgressSlider/>
             </div>
         );
